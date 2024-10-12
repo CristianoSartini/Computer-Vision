@@ -1,5 +1,5 @@
 # Computer-Vision
-My contributions regarding Computer Vision solutions in the organitation [github.com/AEA-ComputerVisionRoboticArm](https://github.com/AEA-ComputerVisionRoboticArm).
+My contributions regarding Computer Vision in the organitation [github.com/AEA-ComputerVisionRoboticArm](https://github.com/AEA-ComputerVisionRoboticArm).
 
 
 <p align="center">
