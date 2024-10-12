@@ -3,9 +3,9 @@ My contributions regarding Computer Vision solutions in the organitation [github
 
 
 <div style="display: flex; align-items: center;">
-    <img src="robotic arm.jpg" alt="Descrizione dell'immagine" style="width: 30%; margin-right: 20px;">
+    <img src="robotic arm.jpg" alt="Descrizione dell'immagine" style="width: 20%; margin-right: 2px;">
     <div style="flex-grow: 1;">
-        <p>Questo è il testo che appare accanto all'immagine. Puoi inserire qui qualsiasi descrizione o informazione aggiuntiva.</p>
+        <p>Questo è il testo che appare accanto all'immagine.</p>
     </div>
 </div>
 
