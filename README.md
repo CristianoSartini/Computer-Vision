@@ -13,8 +13,8 @@ robot’s scene, whose position (and orientation) is then used for online path p
 After testing and studying various Deep Learning techniques, from basic FF-NNs to more complex CNNs, including well-known and widely-used architectures like YOLO, we decided to use Aruco Markers to successfully accomplish the task in a simple and flexible way. Each Aruco Marker consists of a 16-bit matrix that represents its identifier, enclosed in a black border that facilitates its detection. The main benefit of these markers is that a single marker provides enough correspondences (its four corners) to obtain the camera pose. 
 
 <p align="center">
-  <img src="images/cube.jpg" width="200" />
-  <img src="images/test.jpg" width="200" />
+  <img src="images/cube.jpg" width="150" />
+  <img src="images/test.jpg" width="150" />
 </p>
 
 We printed 6 different markers, which were then attached to each face of the cube to ensure real-time estimation of both the pose (a set of 3 axes aligned on the cube’s face) and the distance and position of the front face relative to the camera system:
