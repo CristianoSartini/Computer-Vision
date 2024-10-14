@@ -10,7 +10,7 @@ The goal of the project was to implement a **look and move vision control archit
 robot’s scene, whose position (and orientation) is then used for online path planning in order to drive the robot to the identified object, which in our case was a 3D printed cube (the orange one in the image above). This GitHub repository aims to showcase the educational and exploratory journey undertaken over almost a year of research, to identify the best **pose estimation** solution applicable to the arm using only a monocular camera. This task is one of the main challenges in modern computer vision.
 
 
-After testing and studying various Deep Learning techniques, from basic FF-NNs to more complex CNNs, including well-known and widely-used architectures like YOLO, we decided to use Aruco Markers to successfully accomplish the task in a simple and flexible way. Each Aruco Marker consists of a 16-bit matrix that represents its identifier, enclosed in a black border that facilitates its detection. The main benefit of these markers is that a single marker provides enough correspondences (its four corners) to obtain the camera pose. 
+After testing and studying various Deep Learning techniques, from basic FF-NNs to more complex CNNs, including well-known and widely-used architectures like YOLO, we decided to use **Aruco Markers** to successfully accomplish the task in a simple and flexible way. Each Aruco Marker consists of a 16-bit matrix that represents its identifier, enclosed in a black border that facilitates its detection. The main benefit of these markers is that a single marker provides enough correspondences (its four corners) to obtain the camera pose. 
 
 <p align="center">
   <img src="images/cube.jpg" width="250" />
